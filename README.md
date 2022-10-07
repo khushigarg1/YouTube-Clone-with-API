@@ -1,2 +1,2 @@
 # YouTube-Clone-with-API
-https://github.com/khushigarg1/YouTube-Clone-with-API
+https://khushigarg1.github.io/YouTube-Clone-with-API/
